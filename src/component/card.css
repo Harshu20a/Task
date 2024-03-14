@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+}
+.box{
+    height: 500px;
+}
+.card-body{
+    padding: 12px;
+    height: 250px;
+}
+img{
+    height: 200px;
+}
+
